@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey 👋, I'm Gathoni .A <b>Software Engineer </b>.
-<br>I'm currently exploring Javascript,React,NextJS,SQL,Ruby on Rails & Redux Frameworks.
+<br>I'm currently exploring |Js| React Js| Next Js| Ruby on Rails .
 <br><br>
 Reach out to me anytime ☺️
 
