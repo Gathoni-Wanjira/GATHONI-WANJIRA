@@ -1,8 +1,9 @@
 # 💫 About Me:
 Hey 👋, I'm Gathoni .A <b>Software Engineer </b>.
-<br>I'm currently exploring TailwindCSS| Javascript| ReactJs| NextJs| Python| Flask| SQL.
+ - 🌱 Ask me about TailwindCSS, React, Flask & SQL
+ -  💬 I'm currently exploring |React Native |Typescript |NextJs
 <br><br>
-Reach out to me anytime ☺️
+Reach out to me anytime 📫 
 
 <mailto:janetgathoni97@gmail.com>
 
