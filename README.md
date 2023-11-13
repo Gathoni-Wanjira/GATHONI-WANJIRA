@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey 👋, I'm Gathoni .A <b>Software Engineer </b>.
+Hey there👋. I'm Gathoni ,A <b>Software Engineer </b>.
  - 🌱 Ask me about TailwindCSS, React, Flask & SQL
  -  💬 I'm currently exploring |React Native |Typescript |NextJs
 <br><br>
