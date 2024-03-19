@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey there👋. I'm Gathoni ,A <b>Software Engineer </b>.
- - 🌱 Ask me about React, React Native, Flask & SQL
- -  💬 I'm currently exploring |Flutter |Typescript |NextJs
+ - 🌱 Ask me about React, React Native, Typescript.
+ -  💬 I'm currently exploring |Flutter |NextJs |Angular.
 <br><br>
 Reach out to me anytime 📫 
 
